@@ -1,0 +1,68 @@
+body {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.full-width {
+  width:600px;
+  height: 100px;
+  clear: both;
+  background-color: #904c77;
+  color: #eccfc3;
+}
+
+.half-width {
+  width:299px;
+  height: 180px;
+  float:left;
+}
+
+div {
+  border: 1px solid black;
+}
+
+#box1, #box5, #box7, #box11, div {
+  background-color: #e49ab0;
+}
+
+#box2, #box4, #box8, #box10, div {
+  background-color: #ecb8a5;
+}
+
+p {
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 10px 20px 20px 10px;
+  text-align: center;
+}
+span {
+  color: #904c77;
+	font-weight: 900;
+  font-size: 25px;
+	font-variant: small-caps;
+  text-weight: bold;
+}
+
+#box3 span {
+  color: #e49ab0;
+  font-weight: 900;
+  font-variant: small-caps;
+  font-size: 25px;
+}
+
+#box6 span {
+  color: #e49ab0;
+  font-weight: 900;
+  font-variant: small-caps;
+  font-size: 25px;
+}
+
+#box9 span {
+  color: #e49ab0;
+  font-weight: 900;
+  font-variant: small-caps;
+  font-size: 25px;
+}
